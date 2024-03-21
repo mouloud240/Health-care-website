@@ -5,5 +5,5 @@
     app download
     //feedback
     article 
-    footer
+    footer(done)
     */ }

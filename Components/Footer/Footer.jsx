@@ -58,7 +58,6 @@ const Footer = () => {
       
           </ul>
         </div>
-      
       </div>
       <div className=" top-[300px] left-1 absolute">
             <Image
