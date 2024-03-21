@@ -1,9 +1,9 @@
  {/*
        //navbar
-    hero
+    hero(done almost)
     //services
-    app download
+    app download(done still need to add the download button icon and fix the spacing a bit) 
     //feedback
-    article 
+    article
     footer(done)
     */ }
