@@ -2,7 +2,7 @@
 const Navbar = () => {
   return (
     <div>
-      Navbarcs
+      Navbar
     </div>
   )
 }
