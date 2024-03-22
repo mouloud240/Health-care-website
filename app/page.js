@@ -11,7 +11,8 @@ const home = () => {
    <Services/>
 <Download/>
 <Feedback/>
-  <Articles/>
+<Articles/>
+
      </div>
   )
 }
