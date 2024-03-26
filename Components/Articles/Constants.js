@@ -13,6 +13,8 @@ const ArticlesData=[
         picture:"/Assets/Article3.png",
         title:"Natural care for healthy facial skin",
         description:"A healthy lifestyle should start from now and also for your skin health. There are some...",
-    }
+    },
+        
+    
 ]
 export default ArticlesData;

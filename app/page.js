@@ -10,7 +10,7 @@ const home = () => {
    <Hero/>
    <Services/>
 <Download/>
-<Feedback/>
+<Feedback />
 <Articles/>
 
      </div>

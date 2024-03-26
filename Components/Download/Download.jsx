@@ -4,7 +4,7 @@ import Description from "./Description"
 const Download = () => {
   return (
     <div className="flex flex-col gap-36">
-      <div className="flex justify-around">
+      <div className="flex justify-around ">
      <div>
       <Image
       src={"Assets/Download1.svg"}
