@@ -3,7 +3,7 @@ import FooterLinks from "./Constants"
 import Link from "next/link"
 const Footer = () => {
   return (
-    <div className="relative">
+    <div className="relative mt-12">
       <div className="bg-gradient-to-b flex relative flex-col from-[#67C3F3] to-[#5A98F2] p-16">
         <div className="flex justify-around">
           <div className="flex flex-col gap-4 w-1/4  ">
