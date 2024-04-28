@@ -1,6 +1,6 @@
 const servicesData=[
     {
-        title:"Search doctoooooooooor",
+        title:"Search doctor",
         description:"Choose your doctor from thousands of specialist, general, and trusted hospitals",
         image:"Assets/zoom.svg"
     },
