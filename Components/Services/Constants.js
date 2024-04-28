@@ -7,7 +7,7 @@ const servicesData=[
     
     ,
     {
-        title:"Online pharmacy",
+        title:"Online pharmacyyyyyyyyyyyyyyyyyy",
         description:"Buy  your medicines with our mobile application with a simple delivery system",
         image:"Assets/medecine.svg"
     },
