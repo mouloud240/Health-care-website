@@ -25,7 +25,7 @@ const Navbar = () => {
         {
           navbLinks.map((item,index)=>{
             return(
-             <Link href={item.path}>
+             <Link href={item.path} key={index}>
                <p className="text-gray-500 hover:text-black font-Mulish font-medium text-lg" key={index}>
                      {item.name}
                </p>

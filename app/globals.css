@@ -14,3 +14,16 @@
   body{
     zoom:0.9
   }
+
+  .backServices {
+   
+    background-repeat: no-repeat;
+    overflow: visible;
+    background-position: left top;
+  }
+  .backServices2 {
+    background-image: url(/bg2.svg);
+    background-repeat: no-repeat;
+    overflow: visible;
+    background-position: right center;
+  }

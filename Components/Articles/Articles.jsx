@@ -15,7 +15,7 @@ const Articles = () => {
      }
   }
   return (
-<section className="flex flex-col gap-10 px-18">
+<section className="flex flex-col gap-10 px-18 mt-10">
  <div className="flex flex-col gap-4">
    <h1 className="font-bold font-Mulish text-5xl text-center">
          Check out our latest Articles

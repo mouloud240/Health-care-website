@@ -1,4 +1,4 @@
-
+import servicesData from "./Constants";
 import Link from "next/link";
 import Card from "./Service";
 
@@ -36,9 +36,12 @@ function Services() {
         </div>
         <Link
           href={"#"}
-          className="button flex hover:bg-btncolor hover:text-white"
+          
         >
+          <button className="font-Mullish bg-white ring-2 ring-[#458FF6] rounded-3xl p-2 px-4 text-lg text-[#458FF6]">
           Learn more
+          </button>
+          
         </Link>
       </div>
     </main>
