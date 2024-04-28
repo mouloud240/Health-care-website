@@ -1,9 +1,10 @@
 const servicesData=[
     {
-        title:"Search doctor",
+        title:"Search doctoooooooooor",
         description:"Choose your doctor from thousands of specialist, general, and trusted hospitals",
         image:"Assets/zoom.svg"
-    }
+    },
+    
     ,
     {
         title:"Online pharmacy",
